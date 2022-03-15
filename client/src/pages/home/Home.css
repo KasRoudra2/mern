@@ -1,0 +1,5 @@
+.home-div{
+    display: flex;
+    flex-direction: row;
+    margin: 40px;
+}
